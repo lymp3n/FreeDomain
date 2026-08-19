@@ -1,0 +1,14 @@
+{
+  "domain": "TL-bliss.qzz.io",
+  "owner": {
+    "username": "lymp3n",
+    "email": "fedchenko.andrey.m@gmail.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "value": "lymp3n.github.io"
+    }
+  ]
+}
